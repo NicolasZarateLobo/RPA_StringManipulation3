@@ -1,5 +1,5 @@
 # RPA_StringManipulation3
-Ejercicios de RPA con UiPath
+Ejercicios de RPA String Manipulation con UiPath
 
 Ejercicios:
 2.0) Crear un diccionario llamado “nombreDirección”. Agregar los siguientes elementos al 
